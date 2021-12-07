@@ -1,0 +1,7 @@
+.idea/
+app/target/
+domain/target/
+rest-level-one/target/
+rest-level-three/target/
+rest-level-two/target/
+rest-level-zero/target/
